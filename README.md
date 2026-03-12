@@ -47,8 +47,8 @@ Ejercicios de práctica utilizando diferentes estructuras básicas de programaci
 
 ### Lo que aprendí
 
-* Experiencia utilizando diferentes estructuras básicas de programación en Java
-* Documentación de código
+* Experiencia utilizando diferentes estructuras básicas de programación en Java.
+* Documentación de código.
 
 ### Cómo ejecutar el programa
 
