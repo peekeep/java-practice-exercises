@@ -27,7 +27,7 @@ Practice exercises using different basic programming structures in Java.
 3. Compile the Java file.
 4. Run the program.
 
-# Once executed, the game runs in the terminal and the user can interact by following the instructions displayed on the screen.
+## Once executed, the game runs in the terminal and the user can interact by following the instructions displayed on the screen.
 
 ## Ejercicios de práctica en Java
 
@@ -58,4 +58,4 @@ Ejercicios de práctica utilizando diferentes estructuras básicas de programaci
 3. Compilar el archivo Java.
 4. Ejecutar el programa.
 
-# Una vez ejecutado, el juego se desarrollará en la terminal y el usuario podrá interactuar siguiendo las instrucciones que aparecen en pantalla.
+## Una vez ejecutado, el juego se desarrollará en la terminal y el usuario podrá interactuar siguiendo las instrucciones que aparecen en pantalla.
