@@ -1,4 +1,4 @@
-## Java Practice Exercises
+## Java Practice Exercises - English Summary
 
 ### Description
 
@@ -28,7 +28,7 @@ Practice exercises using different basic programming structures in Java.
 
 ## Once executed, the file will run in the terminal and the user will be able to interact by following the instructions displayed on the screen.
 
-## Ejercicios de práctica en Java
+## Ejercicios de práctica en Java - Resumen en español
 
 ### Descripción
 
