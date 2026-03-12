@@ -23,11 +23,10 @@ Practice exercises using different basic programming structures in Java.
 ### How to Run the Program
 
 1. Open the project in Visual Studio Code.
-2. Open the integrated terminal.
-3. Compile the Java file.
-4. Run the program.
+2. Choose the file you want to run.
+3. Run the selected file in the integrated terminal of Visual Studio Code.
 
-## Once executed, the game runs in the terminal and the user can interact by following the instructions displayed on the screen.
+## Once executed, the file will run in the terminal and the user will be able to interact by following the instructions displayed on the screen.
 
 ## Ejercicios de práctica en Java
 
@@ -54,8 +53,7 @@ Ejercicios de práctica utilizando diferentes estructuras básicas de programaci
 ### Cómo ejecutar el programa
 
 1. Abrir el proyecto en Visual Studio Code.
-2. Abrir la terminal integrada.
-3. Compilar el archivo Java.
-4. Ejecutar el programa.
+2. Elegir el archivo que se quiere ejecutar.
+3. Ejecutar el archivo seleccionado en la terminal integrada de Visual Studio Code.
 
-## Una vez ejecutado, el juego se desarrollará en la terminal y el usuario podrá interactuar siguiendo las instrucciones que aparecen en pantalla.
+## Una vez ejecutado, el archivo se ejecutará en la terminal y el usuario podrá interactuar siguiendo las instrucciones que aparecen en pantalla.
